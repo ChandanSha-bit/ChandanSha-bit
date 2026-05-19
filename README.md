@@ -70,10 +70,3 @@ Full-Stack Engineer & AI Integration Specialist. Crafting high-performance MERN 
 ### 🏆 Achievements & Certificates
 
 - 🏅 **LeetCode**: Solved **100+ Data Structures & Algorithms** problems showcasing robust logical capability.
-- 📜 **NPTEL**: Certified in *Demystifying Networks*.
-
-***
-
-<div align="center">
-  <sub>Template custom-tailored for Chinmayanand Saraswat. Keep building, keep innovating. 🚀</sub>
-</div>
