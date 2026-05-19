@@ -66,17 +66,18 @@ Full-Stack Engineer & AI Integration Specialist. Crafting high-performance MERN 
 </table>
 
 ---
+### 🌟 Featured Projects
 
-### 🌟 Highlighted Projects
-1. 🌌 Atlas | Next-Gen AI Workspace & SaaS Platform ()
+#### 1. [🌌 Atlas | Next-Gen AI Workspace & SaaS Platform](https://github.com/ChandanSha-bit/Atlas)
 A full-stack, AI-driven SaaS platform designed for focus, productivity, and fluid creativity.
-Tech: Next.js 14, Node.js, Express.js, MongoDB, Groq API, DALL-E 3, Cloudinary, Razorpay, JWT, Zustand
-Core: Implemented server-sent events (SSE) for dynamic LLM streaming, dual-strategy OAuth (Google & GitHub), secure SHA-256 password resets, and payment verification flow.
+* **Tech:** Next.js 14, Node.js, Express.js, MongoDB, Groq API, DALL-E 3, Cloudinary, Razorpay, JWT, Zustand
+* **Core:** Implemented server-sent events (SSE) for dynamic LLM streaming, dual-strategy OAuth (Google & GitHub), secure SHA-256 password resets, and payment verification flow.
 
-2. 💬 Nexora | Real-Time Chat Workspace
+#### 2. [💬 Nexora | Real-Time Chat Workspace](https://github.com/Chinmayanand-Saraswat)
 A full-stack, bi-directional messaging platform designed for instant team communications.
-Tech: React.js, Node.js, Express.js, Socket.io, Tailwind CSS
-Core: Implemented robust WebSocket listeners, custom session authentication, and seamless real-time file sharing.
+* **Tech:** React.js, Node.js, Express.js, Socket.io, Tailwind CSS
+* **Core:** Implemented robust WebSocket listeners, custom session authentication, and seamless real-time file sharing.
+
 
 
 ### 🏆 Achievements & Certificates
