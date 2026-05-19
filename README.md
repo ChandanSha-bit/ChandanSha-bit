@@ -12,10 +12,9 @@
 ---
 
 ### 🚀 About Me
+"Full-Stack Engineer & AI Integration Specialist. Crafting high-performance MERN & Next.js applications, building agentic AI search pipelines, and designing cinematic, high-end web experiences."
 
-- 🎓 **Education**: Pursuing a Bachelor of Science in Computer Science at **Sinhgad Institute of Technology and Science** (2022 - 2026).
-- 💼 **Professional Experience**: Worked as a **Full Stack Developer Intern** at *Superso Saving Guru FMF Pvt Ltd*, developing MERN applications, database structures, and integrating generative AI tools. Former **Frontend Developer** at *Teraz Technologies*, building modular React.js/Tailwind CSS products.
-- ⚡ **Specialties**: Creating real-time WebSocket infrastructures, OCR-based image processing pipelines, secure browser extensions, and API integrations.
+
 
 ---
 
