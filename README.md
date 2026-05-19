@@ -88,22 +88,6 @@ A secure Chrome browser utility for local, hidden data vaulting.
 A responsive crypto marketplace dashboard displaying market caps, fluctuations, and details in real-time.
 * **Tech:** React.js, HTML5, CSS3, JavaScript, REST APIs
 
----
-
-### 📈 GitHub Stats & Insights
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chinmayanand-Saraswat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Chinmayanand's GitHub Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmayanand-Saraswat&layout=compact&theme=tokyonight&langs_count=6" alt="Chinmayanand's Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
