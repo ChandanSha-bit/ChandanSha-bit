@@ -5,7 +5,7 @@
 📡 **Full Stack Developer | AI Integration Engineer**  
 *Building responsive web applications, real-time communication systems, and AI-driven solutions.*
 
-[💼 Connect on LinkedIn](https://www.linkedin.com/in/Chinmayanand-Saraswat) • [💻 GitHub Profile](https://github.com/Chinmayanand-Saraswat) • [✉️ Email Me](mailto:csharswat9@gmail.com) • 📞 **+91 9527169288**
+[💼 Connect on LinkedIn](https://www.linkedin.com/in/Chinmayanand-Saraswat) • [💻 GitHub Profile](https://github.com/Chinmayanand-Saraswat) • [✉️ Email Me](mailto:csharswat9@gmail.com) 
 
 </div>
 
