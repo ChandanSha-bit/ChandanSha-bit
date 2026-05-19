@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me
-"Full-Stack Engineer & AI Integration Specialist. Crafting high-performance MERN & Next.js applications, building agentic AI search pipelines, and designing cinematic, high-end web experiences."
+Full-Stack Engineer & AI Integration Specialist. Crafting high-performance MERN & Next.js applications, building agentic AI search pipelines, and designing cinematic, high-end web experiences.
 
 
 
