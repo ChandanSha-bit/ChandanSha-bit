@@ -68,28 +68,16 @@ Full-Stack Engineer & AI Integration Specialist. Crafting high-performance MERN 
 ---
 
 ### 🌟 Highlighted Projects
+1. 🌌 Atlas | Next-Gen AI Workspace & SaaS Platform ()
+A full-stack, AI-driven SaaS platform designed for focus, productivity, and fluid creativity.
+Tech: Next.js 14, Node.js, Express.js, MongoDB, Groq API, DALL-E 3, Cloudinary, Razorpay, JWT, Zustand
+Core: Implemented server-sent events (SSE) for dynamic LLM streaming, dual-strategy OAuth (Google & GitHub), secure SHA-256 password resets, and payment verification flow.
 
-#### 1. [💬 Nexora | Real-Time Chat Workspace](https://github.com/Chinmayanand-Saraswat)
+2. 💬 Nexora | Real-Time Chat Workspace
 A full-stack, bi-directional messaging platform designed for instant team communications.
-* **Tech:** React.js, Node.js, Express.js, Socket.io, Tailwind CSS
-* **Core:** Implemented robust WebSocket listeners, custom session authentication, and seamless real-time file sharing.
+Tech: React.js, Node.js, Express.js, Socket.io, Tailwind CSS
+Core: Implemented robust WebSocket listeners, custom session authentication, and seamless real-time file sharing.
 
-#### 2. [🔍 Atoxen | AI-Powered Ingredient Safety Analyzer](https://github.com/Chinmayanand-Saraswat)
-An end-to-end analyzer that parses product images using OCR to evaluate ingredient risks.
-* **Tech:** React.js, Node.js, Express.js, Tesseract.js, Zustand
-* **Core:** Structured image preprocessing, text extraction via Tesseract, and algorithmic assessment based on chemical data.
-
-#### 3. [🔒 Nova | Private Vault Extension](https://github.com/Chinmayanand-Saraswat)
-A secure Chrome browser utility for local, hidden data vaulting.
-* **Tech:** JavaScript, Chrome Extension APIs, Encrypted LocalStorage
-* **Core:** Features a calculator disguise facade and custom PIN authorization rules to enhance user privacy.
-
-#### 4. [🪙 CryptoPlace | Live Cryptocurrency Tracker](https://github.com/Chinmayanand-Saraswat)
-A responsive crypto marketplace dashboard displaying market caps, fluctuations, and details in real-time.
-* **Tech:** React.js, HTML5, CSS3, JavaScript, REST APIs
-
-
----
 
 ### 🏆 Achievements & Certificates
 
